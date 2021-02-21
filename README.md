@@ -1,6 +1,6 @@
 ### Hi I'm Barış 🤞
 
-- 🔭 I’m currently working on Machine Learning and Deep Learning
+- I’m currently working on Machine Learning and Deep Learning
 
 - Here are the fields that I'm trying to improve and interested myself:
   - 🤖 Machine Learning
@@ -8,7 +8,7 @@
   - 💻 Back-End Development (Django)
   - ⚒️ Statistics
  
-- 📫 How to reach me: alibrs15@hotmail.com
+- How to reach me: alibrs15@hotmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thealibrs&langs_count=6&show_icons=true&theme=radical)
 
