@@ -10,8 +10,6 @@
  
 - How to reach me: alibrs15@hotmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thealibrs&langs_count=6&show_icons=true&theme=radical)
-
 <h4 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alibrs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alibrs" height="30" width="40" /></a>
