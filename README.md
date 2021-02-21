@@ -2,6 +2,12 @@
 
 - 🔭 I’m currently working on Machine Learning
 - 📫 How to reach me: alibrs15@hotmail.com
+- Here are my fields I'm learning or I will deeply learn future days:
+  - ✏️ Data Science
+  - 🤖 Machine Learning
+  - 📕 Deep Learning
+  - 📊 Quantum Machine Learning
+  - ⚒️ Statistics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thealibrs&langs_count=6&show_icons=true&theme=radical)
 
