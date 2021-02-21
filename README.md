@@ -9,7 +9,7 @@
   - ⚒️ Statistics
  
 - How to reach me: alibrs15@hotmail.com
-<hr>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thealibrs&langs_count=6&show_icons=true&theme=radical)
 
 <h4 align="left">Connect with me:</h3>
