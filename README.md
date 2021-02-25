@@ -5,7 +5,7 @@
 - Here are the fields that I'm interested and trying to improve myself:
   - 🤖 Machine Learning
   - 📕 Deep Learning
-  - 💻 Back-End Development (Django, .NET)
+  - 💻 Back-End Development (Django)
   - ⚒️ Statistics
  
 - How to reach me: alibrs15@hotmail.com
