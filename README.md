@@ -20,5 +20,6 @@
 
 ![](https://komarev.com/ghpvc/?username=thealibrs&color=green)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thealibrs&layout=compact)
 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=thealibrs" />
