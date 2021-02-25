@@ -20,4 +20,3 @@
 
 ![](https://komarev.com/ghpvc/?username=thealibrs&color=green)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thealibrs&layout=compact)
