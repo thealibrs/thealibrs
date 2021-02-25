@@ -1,6 +1,7 @@
-### Hi I'm Barış 🤞
+## Hi I'm Barış 🤞
+<hr>
 
-- I’m currently working on became Machine Learning Engineer
+- I’m currently working on Deep Learning and Back-End Development
 
 - Here are the fields that I'm trying to improve and interested myself:
   - 🤖 Machine Learning
