@@ -1,7 +1,7 @@
 ## Hi I'm Barış 🤞
 
 - I’m currently working on Deep Learning and Back-End Development
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=thealibrs" />
 - Here are the fields that I'm interested and trying to improve myself:
   - 🤖 Machine Learning
   - 📕 Deep Learning
@@ -22,4 +22,4 @@
 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=thealibrs" />
+
