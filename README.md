@@ -1,5 +1,4 @@
 ## Hi I'm Barış 🤞
-<hr>
 
 - I’m currently working on Deep Learning and Back-End Development
 
