@@ -2,7 +2,7 @@
 
 - I’m currently working on Deep Learning and Back-End Development
 
-- Here are the fields that I'm trying to improve and interested myself:
+- Here are the fields that I'm interested and trying to improve myself:
   - 🤖 Machine Learning
   - 📕 Deep Learning
   - 💻 Back-End Development (Django, .NET)
