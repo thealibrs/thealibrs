@@ -1,6 +1,6 @@
 ## Hi I'm Barış 🤞
 
-- I’m currently working on Deep Learning and Back-End Development
+- I’m currently learning **Deep Learning** and **Django**
 
 - Here are the fields that I'm interested and trying to improve myself:
   - 🤖 Machine Learning
@@ -8,7 +8,7 @@
   - 💻 Back-End Development (Django)
   - ⚒️ Statistics
  
-- How to reach me: alibrs15@hotmail.com
+- How to reach me: **alibrs15@hotmail.com**
 
 <h4 align="left">Connect with me:</h3>
 <p align="left">
