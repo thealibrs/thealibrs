@@ -7,8 +7,8 @@
   - 📕 Deep Learning
   - 💻 Back-End Development (Django)
   - ⚒️ Statistics
- 
-- How to reach me: **alibrs15@hotmail.com** ![](https://komarev.com/ghpvc/?username=thealibrs&color=green)
+  
+![](https://komarev.com/ghpvc/?username=thealibrs&color=green)
 
 <h4 align="left">Connect with me:</h3>
 <p align="left">
