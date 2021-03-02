@@ -7,7 +7,7 @@
   - 📕 Deep Learning
   - 💻 Back-End Development (Django)
   - ⚒️ Statistics 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/alibrs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alibrs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alibaris" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alibaris" height="30" width="40" /></a>
