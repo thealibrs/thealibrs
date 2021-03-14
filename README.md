@@ -1,6 +1,6 @@
 ## Hi I'm Barış 🤞
 
-- I’m currently learning **Deep Learning** and **Django**
+- I’m currently learning **Deep Learning** and **Django**🐱‍🏍
 
 - Here are the fields that I'm interested and trying to improve myself:
   - 🤖 Machine Learning
@@ -8,11 +8,11 @@
   - 💻 Back-End Development (Django)
   - ⚒️ Statistics 
 
-## Latest Blog Posts
--[Python ile Telegram Botu Yapalım (BeautifulSoup + Heroku) #2 ](https://alibarisayten.medium.com/python-ile-telegram-botu-yapalım-beautifulsoup-heroku-2-3853b413cda7)
--[Python ile Telegram Botu Yapalım (BeautifulSoup + Heroku) #1 ](https://alibarisayten.medium.com/python-ile-telegram-botu-yapalım-beautifulsoup-heroku-1-a488de173188)
--[Face Recognition with TV Series Dark (ENG)](https://alibarisayten.medium.com/face-recognition-with-tv-series-dark-dfcdae9f0701)
--[Haskell’de List Comprehension](https://alibarisayten.medium.com/haskellde-list-comprehension-485999ec93e)
+## 👨‍💻Latest Blog Posts
+- [Python ile Telegram Botu Yapalım (BeautifulSoup + Heroku) #2 ](https://alibarisayten.medium.com/python-ile-telegram-botu-yapalım-beautifulsoup-heroku-2-3853b413cda7)
+- [Python ile Telegram Botu Yapalım (BeautifulSoup + Heroku) #1 ](https://alibarisayten.medium.com/python-ile-telegram-botu-yapalım-beautifulsoup-heroku-1-a488de173188)
+- [Face Recognition with TV Series Dark (ENG)](https://alibarisayten.medium.com/face-recognition-with-tv-series-dark-dfcdae9f0701)
+- [Haskell’de List Comprehension](https://alibarisayten.medium.com/haskellde-list-comprehension-485999ec93e)
 
 
 [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alibaris/)
