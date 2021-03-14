@@ -8,7 +8,6 @@
   - 💻 Back-End Development (Django)
   - ⚒️ Statistics 
 
-<hr>
 
 ## 👨‍💻Latest Blog Posts
 - [Python ile Telegram Botu Yapalım (BeautifulSoup + Heroku) #2 ](https://alibarisayten.medium.com/python-ile-telegram-botu-yapalım-beautifulsoup-heroku-2-3853b413cda7)
@@ -16,7 +15,6 @@
 - [Face Recognition with TV Series Dark (ENG)](https://alibarisayten.medium.com/face-recognition-with-tv-series-dark-dfcdae9f0701)
 - [Haskell’de List Comprehension](https://alibarisayten.medium.com/haskellde-list-comprehension-485999ec93e)
 
-<hr>
 
 ### I'm here 👇
 [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alibaris/)
