@@ -9,7 +9,7 @@
   - ⚒️ Statistics 
 
 
-## Latest Blog Posts 👨‍💻
+## My Medium Posts 📑
 - [Python ile Telegram Botu Yapalım (BeautifulSoup + Heroku) #2 ](https://alibarisayten.medium.com/python-ile-telegram-botu-yapalım-beautifulsoup-heroku-2-3853b413cda7)
 - [Python ile Telegram Botu Yapalım (BeautifulSoup + Heroku) #1 ](https://alibarisayten.medium.com/python-ile-telegram-botu-yapalım-beautifulsoup-heroku-1-a488de173188)
 - [Face Recognition with TV Series Dark (ENG)](https://alibarisayten.medium.com/face-recognition-with-tv-series-dark-dfcdae9f0701)
