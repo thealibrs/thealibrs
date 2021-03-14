@@ -16,7 +16,6 @@
 - [Haskell’de List Comprehension](https://alibarisayten.medium.com/haskellde-list-comprehension-485999ec93e)
 
 
-#### I'm here 👇
 [![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@alibarisayten)
 [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alibaris/)
 [![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=flat?labelColor=blue?color=blue&logo=kaggle&logoColor=blue)](https://www.kaggle.com/alibaris)
