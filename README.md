@@ -10,6 +10,8 @@
 
 
 ## My Medium Posts 📑
+- [Yapay Sinir Ağlarında Aktivasyon Fonksiyonları](https://alibarisayten.medium.com/yapay-sinir-ağlarında-aktivasyon-fonksiyonları-11002b8ac522)
+- [Activation Functions in Deep Neural Network](https://alibarisayten.medium.com/activation-functions-in-deep-neural-network-4d8849b70046#ceb8-fa47313f48e4)
 - [Python ile Telegram Botu Yapalım (BeautifulSoup + Heroku) #2 ](https://alibarisayten.medium.com/python-ile-telegram-botu-yapalım-beautifulsoup-heroku-2-3853b413cda7)
 - [Python ile Telegram Botu Yapalım (BeautifulSoup + Heroku) #1 ](https://alibarisayten.medium.com/python-ile-telegram-botu-yapalım-beautifulsoup-heroku-1-a488de173188)
 - [Face Recognition with TV Series Dark (ENG)](https://alibarisayten.medium.com/face-recognition-with-tv-series-dark-dfcdae9f0701)
