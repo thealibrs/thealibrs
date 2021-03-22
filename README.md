@@ -27,4 +27,4 @@
 [![](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/alibrs15)
 [![](https://img.shields.io/badge/Email-alibrs15%40hotmail.com-blue)](mailto:alibrs15@hotmail.com) 
 ![](https://komarev.com/ghpvc/?username=thealibrs&color=green)
-![](https://www.codewars.com/users/thealibrs/badges/small)
+![](https://www.codewars.com/users/thealibrs/badges/micro)
