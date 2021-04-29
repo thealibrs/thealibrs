@@ -1,6 +1,6 @@
 ## Hi I'm Barış 🤞
 
-- I’m currently learning **Deep Learning** and **Django**. I love to write articles so I'm currently writing in <a href ="https://medium.com/databulls">DataBulls</a> and <a href ="https://medium.datadriveninvestor.com">DataDrivenInvestor</a>🐱‍🏍
+- Machine Learning Engineer Intern at <a href ="b2metric.com">B2MetricAI</a> B2MetricAII’m currently learning **Deep Learning** and **Django**. I love to write articles so I'm currently writing in <a href ="https://medium.com/databulls">DataBulls</a> and <a href ="https://medium.datadriveninvestor.com">DataDrivenInvestor</a>🐱‍🏍
 
 - Here are the fields that I'm interested and trying to improve myself:
   - 🤖 Machine Learning
