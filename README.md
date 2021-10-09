@@ -1,12 +1,7 @@
 ## Hi I'm Barış 🤞
 
-- </a>I’m currently learning **Deep Learning** and **Django**. I love to write articles so I'm currently writing in <a href ="https://medium.com/databulls">DataBulls</a> and <a href ="https://medium.datadriveninvestor.com">DataDrivenInvestor</a>🐱‍🏍
+- </a>I’m currently learning Flutter. I love to write articles so I'm currently writing in <a href ="https://medium.com/databulls">DataBulls</a> and <a href ="https://medium.datadriveninvestor.com">DataDrivenInvestor</a>🐱‍🏍
 
-- Here are the fields that I'm interested and trying to improve myself:
-  - 🤖 Machine Learning
-  - 📕 Deep Learning
-  - 💻 Back-End Development (Django)
-  - ⚒️ Statistics 
 
 
 ## My Medium Posts 📑
