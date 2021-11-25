@@ -1,6 +1,6 @@
 ## Hi I'm Barış 🤞
 
-- </a>I’m currently learning Flutter.🐱‍🏍
+- </a>I’m currently learning Flutter 🐱‍🏍
 
 
 
