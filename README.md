@@ -1,7 +1,7 @@
 ## Hi I'm Barış 🤞
 
 - </a>I’m currently working as a Software Engineer at [DefineX](https://teamdefinex.com/) 
-- Trying to improve myself on Flutter 🐱‍🏍
+- Trying to improve myself on Flask and Flutter 🐱‍🏍
 
 
 
