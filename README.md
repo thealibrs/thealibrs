@@ -4,7 +4,7 @@
 - I write some article on [bayten.dev](https://bayten.dev/)
 
 
-## My Some Blog Posts 📑
+## Some Blog Posts 📑
 - [Method Overriding and Overloading in Java](https://bayten.dev/posts/method-overriding-and-overloading-in-java/)
 - [String, StringBuilder, and StringBuffer in Java](https://bayten.dev/posts/string-stringbuilder-and-stringbuffer-in-java/)
 - [Python ile Telegram Botu Yapalım (BeautifulSoup + Heroku) #1 ](https://alibarisayten.medium.com/python-ile-telegram-botu-yapalım-beautifulsoup-heroku-1-a488de173188)
