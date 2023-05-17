@@ -5,9 +5,9 @@
 
 
 ## Some Blog Posts 📑
+- [Design Patterns | Fundamentals](https://bayten.dev/posts/design-patterns-fundamentals/)
 - [Method Overriding and Overloading in Java](https://bayten.dev/posts/method-overriding-and-overloading-in-java/)
 - [String, StringBuilder, and StringBuffer in Java](https://bayten.dev/posts/string-stringbuilder-and-stringbuffer-in-java/)
-- [Python ile Telegram Botu Yapalım (BeautifulSoup + Heroku) #1 ](https://alibarisayten.medium.com/python-ile-telegram-botu-yapalım-beautifulsoup-heroku-1-a488de173188)
 
 
 [![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@alibarisayten)
