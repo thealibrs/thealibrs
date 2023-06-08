@@ -10,6 +10,6 @@
 - [String, StringBuilder, and StringBuffer in Java](https://bayten.dev/posts/string-stringbuilder-and-stringbuffer-in-java/)
 
 
-[![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@alibarisayten)
-[![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alibaris/)
+[![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@baytendev)
+[![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barisayten/)
 ![](https://komarev.com/ghpvc/?username=thealibrs&color=green)
